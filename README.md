@@ -16,26 +16,27 @@ The simplest way to use AwesomeAlertDialog is to add the library as aar dependen
 
 **Maven**
 
-    <dependency>
-      <groupId>com.github.HMDevCoders</groupId>
-	     <artifactId>AwesomeAlertDialog</artifactId>
-	     <version>Tag</version>
-      <type>aar</type>
-    </dependency>
+	<dependency>
+		<groupId>com.github.HMDevCoders</groupId>
+		<artifactId>AwesomeAlertDialog</artifactId>
+		<version>Tag</version>
+		<type>aar</type>
+	</dependency>
 
 **Add it in your root build.gradle at the end of repositories:**
 
-    	allprojects {
-		    repositories {
-			   ...
-			   maven { url 'https://jitpack.io' }
-		    }
-	   }
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
 
 **Step 2. Add the dependency**
-    dependencies {
-	        implementation 'com.github.HMDevCoders:AwesomeAlertDialog:1.0'
-	   }
+    
+    	dependencies {
+		implementation 'com.github.HMDevCoders:AwesomeAlertDialog:1.0'
+	}
 
 ## Usage
 
