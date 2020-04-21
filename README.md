@@ -72,7 +72,7 @@ You can customize progress bar dynamically with materialish-progress methods via
 - getSpinSpeed()
 - setSpinSpeed(float spinSpeed)
 
-thanks to the project [materialish-progress](https://github.com/pnikosis/materialish-progress) and [@croccio](https://github.com/croccio) participation.
+thanks to the project [@Hannan Max](https://www.instagram.com/hannan_max) and [@Nilen.patel](https://www.instagram.com/nilen.patel) participation.
 
 more usages about progress, please see the sample.
 
@@ -168,13 +168,13 @@ Show the cancel button and bind listener to it：
         })
         .show();
 
-[more android tech shares: HMDevCoders](http://www.pedant.cn)
+[more android tech shares: HMDevCoders](https://github.com/HMDevCoders)
 
 ## License
 
     The MIT License (MIT)
 
-    Copyright (c) 2014 Pedant(https://github.com/HMDevCoders)
+    Copyright (c) 2020 HMDevCoders(https://github.com/HMDevCoders)
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
