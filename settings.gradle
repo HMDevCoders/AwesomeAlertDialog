@@ -1,0 +1,3 @@
+rootProject.name='AwesomeAlertDialog'
+include ':app'
+include ':awesomealertdialog'
