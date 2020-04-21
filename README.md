@@ -2,7 +2,11 @@
 
 Custom AlertView Dialogue is the world's most advanced alert view library. Custom AlertView Dialogue includes simple message popups, confirmation alerts, selector popups, action sheet bottom menus, and input/feedback contact forms. 
 
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Sweet%20Alert%20Dialog-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1065)
+[![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
+[![API](https://img.shields.io/badge/API-11%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=11)
+[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0.html)
+[![Developed By](https://img.shields.io/badge/Developed%20By-@Hannan_Max-green.svg?style=flat)](https://www.instagram.com/hannan_max/)
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Awesome%20Alert%20Dialog-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1065)
 
 ## ScreenShot
 ![image](https://github.com/pedant/sweet-alert-dialog/raw/master/change_type.gif)
