@@ -23,6 +23,7 @@ The simplest way to use AwesomeAlertDialog is to add the library as aar dependen
 		<type>aar</type>
 	</dependency>
 
+## Gradle
 **Add it in your root build.gradle at the end of repositories:**
 
 	allprojects {
