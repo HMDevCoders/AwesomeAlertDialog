@@ -9,7 +9,7 @@ Custom AlertView Dialogue is the world's most advanced alert view library. Custo
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Awesome%20Alert%20Dialog-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1065)
 
 ## ScreenShot
-![image](https://github.com/HMDevCoders/AwesomeAlertDialog/blob/master/screenshot.gif)
+![image](https://github.com/HMDevCoders/AwesomeAlertDialog/blob/master/screenshot.gif | width=100)
 
 ## Setup
 The simplest way to use AwesomeAlertDialog is to add the library as aar dependency to your build.
